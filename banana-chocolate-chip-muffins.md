@@ -1,5 +1,5 @@
 ---
-title: Banana Chocolate Chip Muffins
+title: banana chocolate chip muffins
 rss_ignore: true
 type: wiki
 categories: "recipe"

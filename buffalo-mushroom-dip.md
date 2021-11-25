@@ -1,5 +1,5 @@
 ---
-title: Buffalo Mushroom Dip
+title: buffalo mushroom dip
 rss_ignore: true
 type: wiki
 categories: "recipe"

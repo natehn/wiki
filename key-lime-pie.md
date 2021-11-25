@@ -1,5 +1,5 @@
 ---
-title: Key Lime Pie
+title: key lime pie
 rss_ignore: true
 type: wiki
 categories: "recipe"

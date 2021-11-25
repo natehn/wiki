@@ -1,5 +1,5 @@
 ---
-title: Beyond Scottish Eggs
+title: beyond scottish eggs
 rss_ignore: true
 type: wiki
 categories: "recipe"
@@ -16,8 +16,6 @@ lastmod: 2021-11-09
 - Approx. **1/4 slice bread**, can be stale (but not moldy), or **1.5 tbsp finely ground bread crumbs**
 
 ## Directions
-
-
 
 **Prep, pt. 1:**
 

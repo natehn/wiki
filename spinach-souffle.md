@@ -1,5 +1,5 @@
 ---
-title: Spinach Souffle
+title: spinach souffle
 rss_ignore: true
 type: wiki
 categories: "recipe"

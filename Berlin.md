@@ -10,3 +10,4 @@ Placeholder text. Testing links:
 
 - [[italy]]
 - [[paris]]
+- [[Vermont]]

@@ -6,4 +6,7 @@ categories: "place"
 lastmod: 2021-11-25
 ---
 
-Placeholder text.
+Placeholder text. Testing links:
+
+- [[Italy]]
+- [[Paris]]

@@ -1,0 +1,13 @@
+---
+title: Vermont
+rss_ignore: true
+type: "wiki"
+categories: "place"
+lastmod: 2021-11-09
+---
+
+{{< figure src="/lake of clouds.jpg" caption="CAPTION." >}}
+
+{{< figure src="/the chin.jpg" caption="CAPTION." >}}
+
+Placeholder text.

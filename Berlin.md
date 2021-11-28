@@ -8,7 +8,6 @@ lastmod: 2021-11-25
 
 Placeholder text. Testing links:
 
-- [[italy]]
-- [[paris]]
+- [[Italy]]
+- [[Paris]]
 - [[Vermont]]
-- [[this is a Test of multiple word links Ha ha]]

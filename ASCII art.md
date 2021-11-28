@@ -6,6 +6,10 @@ categories: "note"
 lastmod: 2021-11-09
 ---
 
+## personal tilde.town archive
+
+I'm a fan of old-school ASCII art, and posting it up was one of my favorite things about living in [tilde.town](http://tilde.town/~natehn/) ([archive](https://web.archive.org/web/20211017225941/http://tilde.town/~natehn/))
+
 {{< rawhtml >}}
 <div>
 <p> 
@@ -22,8 +26,6 @@ lastmod: 2021-11-09
 </p>
 </div>
 {{< /rawhtml >}}
-
-I'm a fan of old-school ASCII art, and posting it up was one of my favorite things about living in [tilde.town](http://tilde.town/~natehn/) ([archive](https://web.archive.org/web/20211017225941/http://tilde.town/~natehn/))
 
 {{< rawhtml >}}
 

@@ -2,12 +2,12 @@
 title: travel
 rss_ignore: true
 type: "wiki"
-categories: "note"
-lastmod: 2021-11-09
+categories: "place"
+lastmod: 2021-12-13
 ---
 
 {{< figure src="/wing.jpg" caption="CAPTION." >}}
 
 {{< figure src="/humans.jpg" caption="CAPTION." >}}
 
-Placeholder text.
+I love to travel. I'll be writing more about it at some point...as soon as I get home from my current long-term trip.

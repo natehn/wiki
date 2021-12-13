@@ -6,8 +6,6 @@ categories: "recipe"
 lastmod: 2021-11-09
 ---
 
-*sources: my Aunt Janet ("Tasty Delights" cookbook pg. 53) was the source of the original recipe. The hard-boiling technique is from [Elizabeth Karmel](https://apnews.com/article/f7c85e49bc1c4519b4ec221d0288b6c3) via my ex's mom.*
-
 ## Ingredients
 *Amount per Scottish Egg:*
 - **2.5 classic-flavor [Beyond Breakfast Sausages](https://www.beyondmeat.com/products/beyond-breakfast-sausage-classic/)** (six patties per package)
@@ -49,3 +47,5 @@ lastmod: 2021-11-09
 Future experiment: try with aioli sauce.
 
 *Notes: The prep work can be done the night before if baking in the morning. Remember to put leftover Beyond patties back in the freezer. Although these are properly known as "Scotch" Eggs, our family calls them "Scottish" Eggs.*
+
+*sources: my Aunt Janet ("Tasty Delights" cookbook pg. 53) was the source of the original recipe. The hard-boiling technique is from [Elizabeth Karmel](https://apnews.com/article/f7c85e49bc1c4519b4ec221d0288b6c3) via my ex's mom.*

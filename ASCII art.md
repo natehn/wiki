@@ -3,12 +3,12 @@ title: ASCII art
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2021-11-09
+lastmod: 2021-12-13
 ---
 
 ## personal tilde.town archive
 
-I'm a fan of old-school ASCII art, and posting it up was one of my favorite things about living in [tilde.town](http://tilde.town/~natehn/) ([archive](https://web.archive.org/web/20211017225941/http://tilde.town/~natehn/))
+I'm a fan of old-school ASCII art, and posting it up was one of my favorite things about living in [tilde.town](http://tilde.town/~natehn/) (see [archive](https://web.archive.org/web/20211017225941/http://tilde.town/~natehn/))
 
 {{< rawhtml >}}
 <div>
@@ -26,6 +26,8 @@ I'm a fan of old-school ASCII art, and posting it up was one of my favorite thin
 </p>
 </div>
 {{< /rawhtml >}}
+
+Here's some art I had posted up on that page:
 
 {{< rawhtml >}}
 

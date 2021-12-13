@@ -8,8 +8,6 @@ lastmod: 2021-10-02
 
 **Can also make bread and/or use walnuts.**
 
-*Source: my great-grandmother Adelia H., via my mom*
-
 ## Ingredients
 - **2/3 c. butter**
 - **1 c. sugar**
@@ -48,3 +46,5 @@ lastmod: 2021-10-02
 11. Cool on rack.
 
 *"It's better to err on the side of a lower temperature than a higher temp. Part of the reason I prefer to make muffins is because this recipe is very moist and it can be hard to get a loaf baked all the way through. Love, Mom"*
+
+*Source: my great-grandmother Adelia H., via my mom*

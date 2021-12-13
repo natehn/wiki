@@ -6,8 +6,6 @@ categories: "recipe"
 lastmod: 2020-09-01
 ---
 
-*Source: my grandmother*
-
 ## Ingredients
 - **1 can of Eagle Brand Milk** *(Found where they have baking products and carnation milk in cans. I use the red label.)*
 - **1/2 cup Key Lime Juice**  *(You can buy Key Lime Juice in a jar like you can buy Lemon Juice in a jar. They are usually found side by side on the shelf. I like the brand Nellie and Joe's Key West, but any will do. Keep in refrigerator for future pies.)*
@@ -30,3 +28,4 @@ lastmod: 2020-09-01
 ## Notes
 *"It can be made the day before or day of use. Keep in refrigerator for a few days. After a couple of days the juice may seep out - the pie is still good. It may sound complicated but actually it is a quick pie and no cooking. It is fluffy and refreshing.  Hope you like it. Love, Grandmother."*
 
+*Source: my grandmother*

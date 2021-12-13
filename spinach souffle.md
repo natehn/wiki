@@ -6,8 +6,6 @@ categories: "recipe"
 lastmod: 2020-09-20
 ---
 
-*Source: my mom*
-
 ## Ingredients
 - **1 small carton cottage cheese**
 - **1 pkg 10 oz. frozen chopped spinach** *(Most grocery stores still sell frozen chopped spinach in 10 oz. boxes.)* 
@@ -28,4 +26,4 @@ lastmod: 2020-09-20
 7. Add cottage cheese, spinach, and cheddar cheese. Mix.
 8. Bake at 350° F. *(I've never had it take an hour--usually around 45 minutes, I think, but then again, our oven is probably hotter than it's supposed to be.)*
 
-Placeholder text.
+*Source: my mom*

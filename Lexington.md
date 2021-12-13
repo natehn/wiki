@@ -6,4 +6,4 @@ categories: "place"
 lastmod: 2021-11-28
 ---
 
-Placeholder text. Probably something about BnT.
+I lived in Lexington, KY, from 

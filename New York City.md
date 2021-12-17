@@ -2,8 +2,8 @@
 title: New York City
 rss_ignore: true
 type: "wiki"
-categories: "place"
-lastmod: 2021-12-13
+categories: "note"
+lastmod: 2021-12-14
 ---
 
 {{< figure src="/rooftop performance.jpg" caption="CAPTION." >}}
@@ -54,3 +54,6 @@ ridgewood
 - Grace land
 - Nicandra's
 - bad old days
+
+Favorite arts orgs:
+- Performance Space New York

@@ -9,6 +9,7 @@ lastmod: 2021-12-16
 Awesome social media bots:
 - [Auto Charts](https://twitter.com/AutoCharts)
 - [congressedits](https://botsin.space/@congressedits)
+- [Every Sheriff Bot](https://twitter.com/everysheriff)
 - [feelings.js](https://twitter.com/feelings_js)
 - [LOVELETTERS](https://botsin.space/@loveletter)
 - [Lyre's Dictionary](https://botsin.space/@lyresdictionary)

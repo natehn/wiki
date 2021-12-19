@@ -6,20 +6,172 @@ categories: "note"
 lastmod: 2021-12-15
 ---
 
-Where I've been.
+Where I've been, in alphabetical order. *UNDER CONSTRUCTION*
+
+## China
+
+{{< vimeo 168417817 >}}
+
+I also made a zine ([printable version only](/zine-dynasty.pdf)).
+
+### Beijing
+*Visit*: 2016
+
+{{< figure src="/great wall.jpg" caption="From my exploration of a retricted, unrestored section of the Great Wall." >}}
+
+### Shanghai
+*Visit*: 2016
+
+{{< figure src="/pearl tower.jpg" caption="Shanghai's Pearl Tower at night." >}}
+
+### Xi'an
+*Visit*: 2016
+
+## Europe
+
+A video postcard from my first trip to Europe:
+
+{{< vimeo 180456759 >}}
+
+I also made a zine ([printable version only](/where-am-i.pdf)).
+
+### Amsterdam
+*Visit*: 2016
+
+### Berlin
+*Visit*: 2016
+
+### Copenhagen
+
+{{< figure src="/copenhagen.jpg" caption="A beautiful park in Copenhagen with lines showing the proper bike pathing." >}}
+
+{{< figure src="/copenhagen bridge.jpg" caption="CAPTION." >}}
+
+2019
+
+### Faroe Islands
+
+*Includes*: Sandavágur, Tórshavn
+*Visit*: 2019
+
+{{< figure src="/faroe.jpg" caption="The steep cliffs along the Faroe coast." >}}
+
+{{< figure src="/the edge of the world.jpg" caption="A remote area of Faroe." >}}
+
+### Florence
+*Visit*: 2016
+
+{{< figure src="/firenze.jpg" caption="The view of the Florence Cathedral through a window." >}}
+
+### Milan
+*Visit*: 2016
+
+{{< figure src="/milano.jpg" caption="The cathedral from inside the nearby art museum, from my trip in 2016." >}}
+
+### Munich
+*Visit*: 2016
+
+### Paris
+*Visit*: 2016
+
+In France. Not to be confused with Paris, KY.
+
+{{< figure src="/inverted.jpg" caption="The inverted pyramid thingie at the Louvre." >}}
+
+### Prague
+*Visit*: 2016
+
+### Rome
+*Visit*: 2016
+
+### Siena
+*Visit*: 2016
+
+{{< figure src="/siena.jpg" caption="A street in Siena." >}}
+
+### Venice
+*Visit*: 2016
+
+{{< figure src="/venezia.jpg" caption="A street in Venice." >}}
+
+### Vienna
+*Visit*: 2016
+
+## New Zealand
+
+*Visit*: 2015
+
+In addition to the videos below, I also made a zine ([printable version only](/new-zineland.pdf)).
+
+### Bonus: layover in Sydney
+
+I know, Australia and New Zealand are different. I would liken it to the relationship between Canadians and Americans. One is smaller, cooler, and chiller, and less economically powerful, than the other. Funnily enough, when I was in NZ, I walked up to a Canadian and asked her where in the US she was from XD and then we spent the rest of the day together
+
+From my layover in Sydney:
+
+{{< vimeo 129936005 >}}
+
+### North Island
+
+{{< vimeo 131854167 >}}
+
+{{< figure src="/tramping.jpg" caption="A sunny view while tramping north of Wellington." >}}
+
+{{< figure src="/dormant.jpg" caption="A dormant volcano through a bus window, with the sun setting behind it." >}}
+
+{{< figure src="/rotorua.jpg" caption="Rotorua." >}}
+
+#### Wellington
+
+{{< vimeo 130669520 >}}
+
+*Memories*:
+- The All Seeing Hand live at a bowling club
+
+### South Island
+
+{{< figure src="/tasman sunrise.jpg" caption="The sunrise at Tasman." >}}
+
+{{< vimeo 133644378 >}}
+
+{{< figure src="/lake wanaka.jpg" caption="Lake Wanaka." >}}
+
+{{< vimeo 134398045 >}}
+
+{{< figure src="/kepler track.jpg" caption="The snowy Kepler Track." >}}
+
+{{< vimeo 134710117 >}}
 
 ## United States
 
-States visited: 30/51 (*actually* visited, including DC - driving through and airports do not count)
+*States visited*: 30/51 (*actually* visited, including DC - driving through and airports do not count)
+
+*National parks visited*: 10/63
 
 ### The Adirondacks
 
-Includes: Lake Placed, M______
-Visits: 2020, 2021
+*Includes*: Minerva, Lake Placed
+*Visits*: 2020, 2021
+
+Minerva is a super cute little town, and a great place to stay when visiting during the fall. 
+
+*Fun activities*:
+- climbing Mount Marcy and exploring the High Peaks Wilderness
+- hanging out at the lakes, kayaking, swimming, etc.
+- xc skiing and snow-shoeing
+- walking out oon Mirror Lake
 
 ### Asheville
 
-Visit: 2021
+*Visit*: 2021
+*Includes*: Brevard
+
+I was in Brevard for a wedding, but had a chance to check out the town.
+
+*Fun activities*:
+- Moog Museum
+- kayaking the French Broad - more like a lazy river than anything
+- watching the sun rise over the mountains
 
 ### Austin
 
@@ -29,11 +181,13 @@ Visit: 2021
 
 *Cool spots*:
 - Looking down Congress Ave to see the pink limestone state capitol building, even though they pass tons of awful laws there
-- Electric Church (rad psych rock indoor/outdoor venue) + De Nada Cantina (a nearby spot with excellent chips 'n queso)
+- Electric Church (rad psych rock indoor/outdoor venue I heard about from my Lyft driver) + De Nada Cantina (a nearby spot with excellent chips 'n queso)
 
 ### Bisbee
 
-Visit: 2016
+*Visit*: 2016
+
+A cute little artist town, down by the border.  It has a nice little main street, where I purchased some Buddha-shaped candles. I was there to participate in a binational art project called the Naco-Bisbee Mural Project.
 
 ### Chicago
 
@@ -48,6 +202,8 @@ Visits: 2016, 2018, 2021
 King's Island
 
 ### Denver
+
+{{< figure src="/rudy.jpg" caption="Rudy, my favorite Airbnb doggo buddy." >}}
 
 Cool spots
 - Evergreen
@@ -98,6 +254,12 @@ After trying to avoid the horse sh*t and brownish, melting ice-slush, we went up
 
 ### Miami
 
+### Minneapolis
+
+Visits: 2016, 2021
+
+The endless hallways of the Minneapolis skyway system - feels like an open world video game. There should be an action movie filmed there - if there isn’t one already.
+
 ### Monterey
 
 Visit: 2021
@@ -121,6 +283,8 @@ Visit: 2021
 
 The Mission was cool. 
 
+{{< figure src="/somme bokeh action.jpg" caption="The view frm across the bay, my first night sleeping in a van nearby." >}}
+
 Cool spots:
 - that one bar (will add later)
 
@@ -128,11 +292,13 @@ Cool spots:
 
 Visits: 2015, 2021
 
+{{< figure src="/dab.jpg" caption="Me dabbing when forced to take a photo by the Seattle tourism folks at the Sky Needle." >}}
+
 ### The (Great) Smoky Mountains
 
-{{< figure src="/chimneytops.jpg" caption="CAPTION." >}}
+{{< figure src="/chimneytops.jpg" caption="View from atop the Chimneytops." >}}
 
-Includes: Gatlinburg
+Includes: Gatlinburg, Pigeon Forge, Great Smokey Mountains National Park
 
 ### Sonoma
 Visit: 2021
@@ -162,101 +328,19 @@ Visits: 2013, 2014
 *Silly memories*:
 - eating premade frosty the snowman sugar cookies while watching the GBBO holiday special
 
-### Twin Cities
-
-Includes: Minneapolis, St. Paul
-Visits: 2016, 2021
-
-The endless hallways of the Minneapolis skyway system - feels like an open world video game. There should be an action movie filmed there - if there isn’t one already.
-
 ### Vermont
 
 {{< figure src="/lake of clouds.jpg" caption="CAPTION." >}}
 
-Includes: Burlington, Montpelier
-Visit: 2019
+*Includes*: Burlington, Montpelier, Waterbury
+*Visit*: 2019
 
-{{< figure src="/the chin.jpg" caption="CAPTION." >}}
+{{< figure src="/the chin.jpg" caption="The "chin" of Mount Mansfield." >}}
 
+### Yosemite
 
+*Visit*: 2021
 
+I wish I could have spent more time here! But I greatly enjoyed exploring the valley and hiking up to the top of Half Dome.
 
-
-
-## Europe
-
-### Copenhagen
-
-{{< figure src="/copenhagen.jpg" caption="CAPTION." >}}
-
-{{< figure src="/copenhagen bridge.jpg" caption="CAPTION." >}}
-
-2019
-
-### Faroe Islands
-
-2019
-
-{{< figure src="/faroe.jpg" caption="CAPTION." >}}
-
-{{< figure src="/the edge of the world.jpg" caption="CAPTION." >}}
-
-## European "grand tour" (2016)
-
-### Amsterdam
-
-### Berlin
-
-### Vienna
-
-### Prague
-
-### Munich
-
-### Venice
-
-{{< figure src="/venezia.jpg" caption="CAPTION." >}}
-
-### Siena
-
-{{< figure src="/siena.jpg" caption="CAPTION." >}}
-
-### Florence
-
-{{< figure src="/firenze.jpg" caption="CAPTION." >}}
-
-### Milan
-
-{{< figure src="/milano.jpg" caption="The cathedral from inside the nearby art museum, from my trip in 2016." >}}
-
-### Paris, France
-
-Not to be confused with Paris, KY.
-
-{{< figure src="/inverted.jpg" caption="CAPTION." >}}
-
-## China (2016)
-
-{{< figure src="/pearl tower.jpg" caption="CAPTION." >}}
-
-{{< figure src="/great wall.jpg" caption="CAPTION." >}}
-
-## New Zealand (2015)
-
-(vimeo videos)
-
-{{< figure src="/lake wanaka.jpg" caption="CAPTION." >}}
-
-{{< figure src="/rotorua.jpg" caption="CAPTION." >}}
-
-{{< figure src="/tasman sunrise.jpg" caption="CAPTION." >}}
-
-{{< figure src="/tramping.jpg" caption="CAPTION." >}}
-
-{{< figure src="/dormant.jpg" caption="CAPTION." >}}
-
-{{< figure src="/kepler track.jpg" caption="CAPTION." >}}
-
-
-
-national parks
+{{< figure src="/half dome.jpg" caption="Me on top of half dome, with an enormous vista behind me." >}}

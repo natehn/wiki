@@ -335,7 +335,7 @@ Visits: 2013, 2014
 *Includes*: Burlington, Montpelier, Waterbury
 *Visit*: 2019
 
-{{< figure src="/the chin.jpg" caption="The "chin" of Mount Mansfield." >}}
+{{< figure src="/the chin.jpg" caption="The 'chin' of Mount Mansfield." >}}
 
 ### Yosemite
 

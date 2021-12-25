@@ -6,11 +6,13 @@ categories: "note"
 lastmod: 2021-12-14
 ---
 
+I lived in NYC from May 2018 to September 2021. I'm returning there January 2022. 
+
+*UNDER CONSTRUCTION*
+
 {{< figure src="/rooftop performance.jpg" caption="CAPTION." >}}
 
 {{< figure src="/the city.jpg" caption="CAPTION." >}}
-
-I lived in NYC from May 2018 to September 2021. I'm returning there February 2022. 
 
 ### Recommendations for visitors
 

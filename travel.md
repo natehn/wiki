@@ -19,3 +19,11 @@ I love to travel. I'll be writing more about it at some point...as soon as I get
 3. The time I had to break into my own room following the host's instructions, in San Francisco, CA.
 
 {{< figure src="/florida.jpg" caption="An unexpectedly beautiful view of central Florida." >}}
+
+
+**Travelers** (2015)
+```
+On this lonely road,
+Though crowded with travelers,
+I still feel alone.
+```

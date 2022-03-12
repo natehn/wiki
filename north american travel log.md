@@ -3,7 +3,7 @@ title: north american travel log
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2021-12-19
+lastmod: 2022-01-02
 ---
 
 Where I've been, in alphabetical order. *UNDER CONSTRUCTION*
@@ -80,6 +80,10 @@ Cool spots
 Includes: Berkeley, Casto Valley, Oakland
 Visit: 2021
 
+*Cool spots*:
+- Urban Ore (Berkeley)
+- Burma Superstar (Oakland)
+
 ### Florida Keys
 
 ### Grand Rapids
@@ -131,6 +135,9 @@ The endless hallways of the Minneapolis skyway system - feels like an open world
 Visit: 2021
 
 Incredible weather, beautiful beaches. No wonder all the rich people live there. Felt less like *Big Little Lies* than I expected.
+
+*Cool spots*: 
+- Moondog
 
 ### New York City
 
@@ -202,6 +209,14 @@ Visits: 2013, 2014
 *Visit*: 2019
 
 {{< figure src="/the chin.jpg" caption="The 'chin' of Mount Mansfield." >}}
+
+### Washington, D.C.
+
+*Visits*: 2016, 2018, 2020, 2021
+
+*Cool spots*:
+- OKPB
+- Suns Cinema
 
 ### Yosemite
 

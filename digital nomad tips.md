@@ -3,7 +3,7 @@ title: digital nomad tips
 rss_ignore: true
 type: wiki
 categories: "note"
-lastmod: 2021-12-25
+lastmod: 2021-03-11
 ---
 
 In the second half of 2021, I went on a four-month trip across the US. This is the advice I would send to my past self.
@@ -30,7 +30,9 @@ Here was my hierarchy of accommodations when I'm working:
 2. Airbnb (you don't need a whole apartment, most of the time, if you're solo - just a private room that has a desk)
 3. Hostel (or motel/hotel)
 
-If I'm not working, and we're not in the middle of a pandemic, couchsurfing sites like [Couchers](https://app.couchers.org/login) and [Trustroots](https://www.trustroots.org/signin?continue=true) are an excellent option. But it seems like they haven't really fired back up, yet.
+If I'm not working, and we're not in the middle of a pandemic, couchsurfing sites like [Couchers](https://app.couchers.org/login) and [Trustroots](https://www.trustroots.org/signin?continue=true) are an excellent option. But it seems like they haven't fully fired back up, yet, as of early 2022.
+
+Another option I haven't tried but think would work is looking for short-term sublets on the [Listings Project](https://www.listingsproject.com/).
 
 [Housesitting](https://www.trustedhousesitters.com/) is also an option, but I haven't tried it yet, in part because it is difficult without a car and because I'm allergic to cats. But if you are extremely flexible, it can be really great.
 
@@ -46,7 +48,7 @@ Staying close to the city center typically provides more flexibility (in terms o
 
 ### Travel Methods
 
-Planes are typically the easiest, but I recommend trains (and boats!) if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method can be fun. And keep in mind that using a train or bus rather than a boat lowers your impact on the planet.
+Planes are typically the easiest, but I recommend trains (and boats!) if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method can be fun. And keep in mind that using a train or bus rather than a boat lowers your impact on the planet. (More tips on each method of travel [below](#travel-mobility).)
 
 ## Preparation
 
@@ -161,11 +163,11 @@ I always get there with plenty of time to set myself up and use the airport inte
 
 In my romanticized version of digital nomadism, the train Internet is amazing, and you have plenty of space to work. In truth, the internet coverage tends to be pretty spotty. I often opted to use my mobile hotspot. Unfortunately, this isn't enough to dependaby attend a 60-minute meeting, since trains tend to take you through remote areas of the country.
 
-My experience with train travel has varied drastically, and I don't think I've done enough of it to draw broad conclusions. I had a good experience on business class trip once, but that might have been a fluke. I'm about to try a roommette for the first time (as of Dec. 2021) and I'll report back. In general, passengers have been quiet, and I've made some friends in the diner car, but they can also be the thing that keeps you up if they get drunk and won't shut up XD
+My experience with train travel has varied drastically, and I don't think I've done enough of it to draw broad conclusions. I had a good experience on business class trip once, but that might have been a fluke. In general, passengers have been quiet, and I've made some friends in the diner car, but they can also be the thing that keeps you up if they get drunk and won't shut up XD
 
 Sleeping on trains can be a challenge, especially if you are cheap and go for a coach seat. I'm a little too tall for them, so it's a struggle to get comfortable. In addition, it tends to be chilly in the night, so make sure to have a blanket, or at least a couple jackets to cover yourself with. Earplugs or isolating earphones are also essential, since the train engine will be blaring its horn constantly throughout the night.
 
-Keep in mind that long-distance trains often get help up by freight trains, since the shipping companies are the ones that actually own the railroad. Never plan anything for the day you are scheduled to arrive.
+Keep in mind that long-distance trains often get help up by freight trains, since the shipping companies are the ones that actually own the railroad. Never plan anything for the day you are scheduled to arrive. In the US, use [Amtrak's train tracker](https://www.amtrak.com/track-your-train.html) to get info on departure and arrival times, and save yourself some stress.
 
 ### Rental Cars
 
@@ -189,7 +191,7 @@ I'm definitely not a pro, but here are a few tips I picked up:
 - Buy a few gallons of water when you head off into the wilderness
 - Look up how to deal with your waste properly (gray water, toilet paper, little shovel, etc.)
 
-Don't take my word for it - go to r/vandwellers for tips from the pros.
+Don't take my word for it - go to [r/vandwellers](https://old.reddit.com/r/vandwellers/) and [elsewhere](https://ghuntley.com/internet/) for tips from the pros.
 
 ### Public Transport
 

@@ -3,7 +3,7 @@ title: bots
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2021-03-11
+lastmod: 2022-03-11
 ---
 
 Awesome social media bots:[^1]

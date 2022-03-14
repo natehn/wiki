@@ -3,7 +3,7 @@ title: digital nomad tips
 rss_ignore: true
 type: wiki
 categories: "note"
-lastmod: 2021-03-11
+lastmod: 2022-03-11
 ---
 
 In the second half of 2021, I went on a four-month trip across the US. This is the advice I would send to my past self.

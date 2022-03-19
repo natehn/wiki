@@ -3,7 +3,7 @@ title: digital nomad tips
 rss_ignore: true
 type: wiki
 categories: "note"
-lastmod: 2022-03-11
+lastmod: 2022-03-13
 ---
 
 In the second half of 2021, I went on a four-month trip across the US. This is the advice I would send to my past self.
@@ -36,6 +36,8 @@ Another option I haven't tried but think would work is looking for short-term su
 
 [Housesitting](https://www.trustedhousesitters.com/) is also an option, but I haven't tried it yet, in part because it is difficult without a car and because I'm allergic to cats. But if you are extremely flexible, it can be really great.
 
+Lastly, if you are roadtripping or hitching, motels are of course an option, along with camping on [public lands](https://www.blm.gov/programs/recreation/camping).
+
 #### Neighborhood
 
 Being centrally located is useful when you go to a new city, if you can afford it. While downtown might not be the "coolest" neighborhood, it is often the most networked, with access to all (or at least, most) of the others.
@@ -48,7 +50,7 @@ Staying close to the city center typically provides more flexibility (in terms o
 
 ### Travel Methods
 
-Planes are typically the easiest, but I recommend trains (and boats!) if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method can be fun. And keep in mind that using a train or bus rather than a boat lowers your impact on the planet. (More tips on each method of travel [below](#travel-mobility).)
+Planes are typically the easiest, but I recommend trains ([US](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)/[Canada](https://www.viarail.ca/en/explore-our-destinations/trains)), buses (Flixbus or Greyhound), and boats if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method can be fun. And keep in mind that using a train or bus rather than a boat lowers your impact on the planet. (More tips on each method of travel [below](#travel-mobility).)
 
 ## Preparation
 
@@ -70,11 +72,13 @@ Packing light is all about the [mindset](https://wander-lush.org/minimalist-back
 
 Pack [clothes](https://www.onebag.com/travel-clothes.html) based on [each location's historical weather](https://weatherspark.com/) - plus a degree or two to account for global warming. When considering what to bring, layering is key. Think about how items can serve multiple roles - like a buttondown shirt that can work at both a nice restaurant and a club, or a pair of shorts that doubles as swim trunks.
 
-When you aren't sure about something, remove it from your packing list. Don't bring things that you "might" need. When you are traveling the US, there is no need to pack anything you aren't going to use regularly, since you can buy anything you need. Cheap, replaceable things can be purchased or replaced easily. On a couple occasions when I needed something, or a restock, I had it shipped to my next stop.
+When you aren't sure about something, remove it from your packing list. Don't bring things that you "might" need. When you are traveling the US, there is no need to pack anything you aren't going to use regularly, since you can buy anything you need. Cheap, replaceable things can be purchased or replaced easily.[^replacements] On a couple occasions when I needed something, or a restock, I had it shipped to my next stop.
+
+[^replacements]: I ended up replacing my headphones, an Apple headphone adapter, and batteries for my electric shaver. I also purchased additional layers as the weather got colder.
 
 > The #1 thing to keep in mind is that unless you are backpacking through the Mongolian Steppe, the rest of the world is remarkably westernized, even the more remote parts. Most countries, especially cities have stores where we can buy things. Not every problem that we have to solve in our daily lives requires that we carry the solution with us at all times. For every problem you think you will encounter, analyze how much of a problem it is. If every day you dry your hair using a hairdryer, ask yourself: will where I'm going have hairdryers? If not, will I struggle if I can't dry my hair every day? If the answers are "no, yes," then by all means bring a hairdryer, but chances are, if you're being honest, it's not an actual problem. On the flip side, if the problem is "I am diabetic," carrying your insulin is probably a good idea.
 > 
-> {{< rawhtml >}}<br>&nbsp;&ndash; {{< /rawhtml >}} *[deleted] [on Reddit](https://old.reddit.com/r/backpacking/comments/2s5gsl/how_do_you_all_pack_so_little/)* (note: I replaced some ethnocentric language)
+> {{< rawhtml >}}<br>&nbsp;&ndash; {{< /rawhtml >}} *[deleted] [on Reddit](https://old.reddit.com/r/backpacking/comments/2s5gsl/how_do_you_all_pack_so_little/)* (*note*: I replaced some ethnocentric language)
 
 For a great guide that covers almost everything, I recommend reading through the *entirety* of [OneBag.com](https://www.onebag.com/). I also appreciated [Jacob Hall's tips](https://jacobhall.net/2019/what-to-pack/).
 

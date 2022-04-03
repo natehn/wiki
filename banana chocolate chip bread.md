@@ -1,5 +1,5 @@
 ---
-title: banana chocolate chip muffins
+title: banana chocolate chip bread
 rss_ignore: true
 type: "wiki"
 categories: "recipe"
@@ -36,10 +36,12 @@ lastmod: 2021-10-02
 **Adding alternately:** I add half of the dry, then add the bananas, add the rest of the dry and then the buttermilk or something like that.*
 
 8. Stir in nuts or chips.
+
 #### Option 1. Bread
 9. Pour into 2 greased and floured 1 pound loaf pans.
 10. Bake for 1 hour.
 11. Cool on rack.
+
 #### Option 2. Muffins
 9. Pour into muffin cups (2 muffin tins with 12 muffin cups each).
 10. Bake for 15-18 minutes.

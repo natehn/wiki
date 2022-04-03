@@ -6,7 +6,7 @@ categories: "note"
 lastmod: 2021-12-14
 ---
 
-I lived in NYC from May 2018 to September 2021. I'm returning there January 2022. 
+I lived in NYC from May 2018 to September 2021, and again in [[Ridgewood]] beginning January 2022. 
 
 *UNDER CONSTRUCTION*
 

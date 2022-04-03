@@ -8,7 +8,7 @@ lastmod: 2022-03-13
 
 In the second half of 2021, I went on a four-month trip across the US. This is the advice I would send to my past self.
 
-*If you're roadtripping, some of this will be useful, but some will not. I traveled without a car.*
+*If you're roadtripping, some of this will be useful, but some will not. I traveled without a car. Also, a lot of this will not be as useful for international travel, though plenty is relevant no matter where you are.*
 
 ## Planning
 

@@ -30,6 +30,7 @@ I was there while doing work with the Naco-Bisnee Mural Project and Naco Wellnes
 
 ### The Adirondacks
 *Includes*: Minerva, Lake Placid
+
 *Visits*: 2020, 2021
 
 Minerva is a super cute little town, and a great place to stay when visiting during the fall. 
@@ -50,6 +51,7 @@ Minerva is a super cute little town, and a great place to stay when visiting dur
 
 ### Asheville
 *Visit*: 2021
+
 *Includes*: Brevard
 
 I was in Brevard for a wedding, but had a chance to check out Asheville a bit beforehand.
@@ -105,6 +107,7 @@ A lot of good stuff is on the Blue line. Good food, good music, good times.
 
 ### East Bay
 *Includes*: Berkeley, Casto Valley, Oakland
+
 *Visit*: 2021
 
 *Cool spots*:
@@ -140,6 +143,7 @@ Under construction.
 
 ### Lexington
 *Residence*: 2012-2017
+
 *Visits*: 2018, 2021
 
 Plenty of stuff missing, but...
@@ -155,16 +159,18 @@ Plenty of stuff missing, but...
 - Plenty of cool venues
 
 ### Los Angeles
-*Visits*: 2010ish, 2016, 2022
+*Visits*: 2010, 2016, 2022
 
 TBD
 
 ### Louisville
 *Residence*: 2017-2018
+
 *Visits*: 2014, 2015, 2020
 
 ### Mackinac Island
 *Visit*: 2021
+
 Pronounced "mackinaw." 
 
 *Quick notes*: I went with my friend on a cold, rainy day in the off-season. We were pretty much soaked through, but we had the island pretty much to ourselves. 
@@ -202,6 +208,7 @@ Incredible weather, beautiful beaches. No wonder all the rich people live there.
 
 ### New York City
 *Residence*: 2018-2021, 2022-present
+
 *Visits*: 2017, 2021
 
 see [[New York City]]

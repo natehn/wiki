@@ -24,12 +24,12 @@ lastmod: 2021-04-13
 
 1.  Preheat oven to 350°
 2.  Line baking sheet with parchment paper and set aside.
-3.  In bowl of stand mixer beat the butter and pumpkin together until evenly combined, 2-3 minutes.
-4.  Add both sugars and beat another minute.
-5.  Add eggs, vanilla, baking soda, pumpkin pie spice and salt.
+3.  In bowl of stand mixer beat the butter (1 cup) and pumpkin (3/4 cup) together until evenly combined, 2-3 minutes.
+4.  Add both sugars (1 cup brown, 1/2 cup regular) and beat another minute.
+5.  Add egg, vanilla (1tsp), baking soda (1 tsp), pumpkin pie spice (1 tsp), and salt (1 tsp).
 6.  Beat until smooth.
 7.  Turn mixer to low and add in flour.
-8.  Finally stir in chocolate chips.
+8.  Finally stir in chocolate chips (2 cups).
 9.  Drop by rounded tablespoon onto lined baking sheet and bake for 9-11 minutes until centers are just set and edges are golden.
 10.  Allow to cool for 3-4 minutes on baking sheet and then transfer to wire rack to continue cooling.
 

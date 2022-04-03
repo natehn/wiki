@@ -3,7 +3,7 @@ title: bots
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2022-03-11
+lastmod: 2022-04-02
 ---
 
 Awesome social media bots:[^1]
@@ -18,6 +18,7 @@ Awesome social media bots:[^1]
 - [New New York Times](https://twitter.com/NYT_first_said)
 - [poem.exe](https://twitter.com/poem_exe)
 - [self care tips](https://botsin.space/@selfcare)
+- [Small Seasons](https://twitter.com/smallseasonsbot)
 - [ThinkBoi](https://twitter.com/web3_ebooks)
 - [trains botting](https://twitter.com/choochoobot)
 - [wayback_exe](https://twitter.com/wayback_exe)
@@ -33,4 +34,4 @@ For when you need the tunes without the data plan:
 
 Feel free to [submit your bot](/connect) if you are so inclined.
 
-[^1]: Note: curated bots like [Liminal Spaces](https://twitter.com/spaceliminalbot) are not included on this list.
+[^1]: Note: human-curated "bots" like [Liminal Spaces](https://twitter.com/spaceliminalbot) are not included on this list.

@@ -3,8 +3,13 @@ title: ASCII art
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2021-12-13
+lastmod: 2022-05-24
 ---
+
+## around the internet
+
+- [endless horse](http://endless.horse/)
+- [unicode snowman for you](https://unicodesnowmanforyou.com/)
 
 ## personal tilde.town archive
 
@@ -93,5 +98,26 @@ BBBBBQQQBQQBQQQ888000dMdpGG%WaIoaaKfhhzzVJnIonVnlnVnY|x}]v|?rrr^^^^^**^^^^<^*<^;
 <p>
 (I use <i>aria-label</i> to try to make my ASCII images <a href="https://www.youtube.com/watch?v=yir99BwbSx4" target="_blank">screen-reader-friendly</a>.)
 </p>
+</div>
+{{< /rawhtml >}}
+
+## My old 404 page
+
+{{< rawhtml >}}
+<div>
+<pre aria-label="Magritte's pipe in ASCII form.">
+      `,>*r*^;:-`                               `   
+    .I^-*YVtXKd08,                _~^*vneKpW%HPq9~  
+    >t!.xhZM60Q#Bv            _^r*rYa0gaL~_         
+    ?z:.7fZdRgB#Bu         `!^,"x6BQ2=              
+    ?z:-7hM6N8##Bn       =v*=rt%g8|                 
+    ;h;_xhd9DQ##B]    :?\~>]G0QNr                   
+    .P]~vh66DB##BO\rv?~~|w9QQgr          404        
+     vfluKMOQ###BDtYl2HDQBQ6r                       
+      LMMMNQ####BBBBBBBBQa=                         
+       _20QB#######BQ9V!                            
+          `"<r??r<=.                                
+</pre>
+<p><i>Ceci n'est pas une page. </i><strong> This is not a page. </strong></b>
 </div>
 {{< /rawhtml >}}

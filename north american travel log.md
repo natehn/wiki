@@ -3,7 +3,7 @@ title: north american travel log
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2022-03-13
+lastmod: 2022-05-25
 ---
 
 Where I've been, in alphabetical order. (*UNDER CONSTRUCTION*)
@@ -44,24 +44,28 @@ Minerva is a super cute little town, and a great place to stay when visiting dur
 ### Albuquerque
 *Visit*: 2022
 
+{{< figure src="/new-mexico.jpg" caption="New Mexico (Landscape) by Thomas Hart Benton" >}}
+
 *Fun activities*:
 - ride a hot air balloon
 - hike to see petroglyphs
 - get food at the grocery coop
 
 ### Asheville
-*Visit*: 2021
+*Visit*: 2021, 2022
 
 *Includes*: Brevard
 
-I was in Brevard for a wedding, but had a chance to check out Asheville a bit beforehand.
+*Cool spots*: 
+- Biscuit Head
+- Quatations (chill coffeeshop in Brevard)
 
 *Fun activities*:
 - hiking!
 - Moog Museum
 - kayaking the French Broad - more like a lazy river than anything
 - waking up early to watch the sun rise over the Blue Ridge mountains
-- Quatations (chill coffeeshop in Brevard)
+
 
 ### Austin
 *Visit*: 2021
@@ -104,6 +108,8 @@ A lot of good stuff is on the Blue line. Good food, good music, good times.
 - City, 'O City'
 - Domo
 - Meow Wolf
+
+{{< figure src="/mountain-symphony.png" caption="A Mountain Symphony (Longs Peak, Rocky Mountain National Park, Colorado) by Sven Birger Sandzen" >}}
 
 ### East Bay
 *Includes*: Berkeley, Casto Valley, Oakland
@@ -213,6 +219,18 @@ Incredible weather, beautiful beaches. No wonder all the rich people live there.
 
 see [[New York City]]
 
+### Philadelphia
+
+*Visits*: 2016, 2022
+
+*Cool spots*:
+- Japanese garden
+- Making Worlds bookstore
+- Mutter Museum
+- Barnes Foundation
+- PhilaMOCA
+- Raxx Vintage
+
 ### Portland, OR
 
 *Visit*: 2021
@@ -303,3 +321,5 @@ Many many visits. More info to come someday when I have a chance.
 I wish I could have spent more time here! But I greatly enjoyed exploring the valley and hiking up to the top of Half Dome.
 
 {{< figure src="/half dome.jpg" caption="Me on top of half dome, with an enormous vista behind me." >}}
+
+{{< figure src="/tenaya-lake.jpg" caption="Untitled (Tenaya Lake) by Florian Maier-Aichen" >}}

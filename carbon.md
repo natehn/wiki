@@ -40,6 +40,10 @@ The scale and efficiency of carbon capture have yet to come anywhere close to wh
 
 Carbon footprints are a harmful fiction in many cases because they place the emphasis and responsibility on the individual to "fix" global warming when in fact, systemic change is the only solution.
 
+### carbon "neutral"
+
+COMING SOON
+
 ### carbon "offsets"
 
 *Carbon offsets* are certificates meant to represent activity that fights climate change. By purchasing a carbon offset, at a certain cost, you can "offset" your carbon "footprint" (from an international flight, for instance) by ostensibly funding these activities. Examples of these activities can include carbon capture or sequestration, along with certain agricultural activities, waste management, and renewable energy. 
@@ -60,6 +64,14 @@ The current elevated climate change is driven by human activity, most prominentl
 
 [^conv]: °F = (°C x 1.8) + 32.00
 
+#### climate and environmental justice
+
+COMING SOON
+
+#### climate emergency, climate crisis, etc.
+
+COMING SOON
+
 ### "fossil" fuels
 
 *Fossil fuels* are hydrocarbon-based fuels (made up of carbon and hydrogen), such as petroleum, coal, or natural gas, derived from living matter of a previous geologic time, often found underground.
@@ -77,3 +89,15 @@ The current elevated climate change is driven by human activity, most prominentl
 *Carbon sequestration* is the process of capturing and storing atmospheric carbon dioxide. There are two types: *geologic*, where carbon dioxide is liquified and injected into underground porous rock, and *biologic*, which includes natural processes that remove carbon dioxide from the atmosphere (i.e., trees).
 
 Planting more trees is fine, but it won't be enough on its own. Cool as it is, neither will ["whale carbon"](https://www.imf.org/external/pubs/ft/fandd/2019/12/natures-solution-to-climate-change-chami.htm) or other [marine biologic sequestration](https://farallones.org/climate/blue-carbon).
+
+### shareholder "activism"
+
+COMING SOON
+
+### sustainability
+
+COMING SOON
+
+#### corporate "sustainability" and "ESG"
+
+COMING SOON

@@ -3,7 +3,7 @@ title: acronyms
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2022-04-02
+lastmod: 2022-04-05
 ---
 
 Various acronyms.
@@ -19,16 +19,15 @@ work-related:
 - MVP = minimum viable product
 - OSPO = open source program office
 - SEPA = single euro payments area
+- TPU = tensor processing unit
 - USP = unique selling point
 - UTFS = use the fucking search
 
 life-related:
 - KMS = Kenwick meat shack
 
-meme speak that I always forget:
+coms that I always forget:
+- LGTM = looks good to me
 - TIL = today I learned
-
-random:
-- TPU = tensor processing unit
 
 for radio acronyms, see [[radio]]

@@ -3,7 +3,7 @@ title: digital nomad tips
 rss_ignore: true
 type: wiki
 categories: "note"
-lastmod: 2022-03-13
+lastmod: 2022-04-06
 ---
 
 In the second half of 2021, I went on a four-month trip across the US. This is the advice I would send to my past self.
@@ -50,7 +50,7 @@ Staying close to the city center typically provides more flexibility (in terms o
 
 ### Travel Methods
 
-Planes are typically the easiest, but I recommend trains ([US](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)/[Canada](https://www.viarail.ca/en/explore-our-destinations/trains)), buses (Flixbus or Greyhound), and boats if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method can be fun. And keep in mind that using a train or bus rather than a boat lowers your impact on the planet. (More tips on each method of travel [below](#travel-mobility).)
+Planes are typically the easiest, but I recommend trains ([US](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)/[Canada](https://www.viarail.ca/en/explore-our-destinations/trains)), buses (Flixbus or Greyhound), and boats if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method [can be fun](https://xkcd.com/2603/). And keep in mind that using a train or bus rather than a boat lowers your impact on the planet. (More tips on each method of travel [below](#travel-mobility).)
 
 ## Preparation
 

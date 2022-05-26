@@ -3,12 +3,13 @@ title: bots
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2022-04-02
+lastmod: 2022-05-25
 ---
 
-Awesome social media bots:[^1]
+Some interesting social media bots:[^1]
 
 - [Auto Charts](https://twitter.com/AutoCharts)
+- [Carmen Sandiego](https://botsin.space/@carmensandiego)
 - [congressedits](https://botsin.space/@congressedits)
 - [Every Sheriff Bot](https://twitter.com/everysheriff)
 - [feelings.js](https://twitter.com/feelings_js)
@@ -24,6 +25,7 @@ Awesome social media bots:[^1]
 - [wayback_exe](https://twitter.com/wayback_exe)
 - [WhatTheCommit](https://botsin.space/@whatthecommit)
 - [Wikipedia Haiku](https://botsin.space/@wikipediahaiku)
+- [XKCD Bot](https://mastodon.xyz/@xkcd)
 
 For when you need the tunes without the data plan:
 
@@ -34,4 +36,4 @@ For when you need the tunes without the data plan:
 
 Feel free to [submit your bot](/connect) if you are so inclined.
 
-[^1]: Note: human-curated "bots" like [Liminal Spaces](https://twitter.com/spaceliminalbot) are not included on this list.
+[^1]: Note: human-curated "bots" like [Liminal Spaces](https://twitter.com/spaceliminalbot), [Ghibli GIFs](https://hostux.social/@ghibligifs), or [nonstandard mcdonald's](https://twitter.com/nonstandardmcd) are not included on this list, even though they are awesome.

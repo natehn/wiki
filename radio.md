@@ -3,7 +3,7 @@ title: radio
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2022-04-02
+lastmod: 2022-04-01
 ---
 
 UNDER CONSTRUCTION

@@ -15,7 +15,7 @@ I grew up in the United States Midwest and have visited 30/51 US states and 10/6
 
 **Other countries I've visited:** Australia, Austria, Canada, China, Czechia, Denmark, Faroe Islands, Germany, Italy, México, The Netherlands, New Zealand
 
-I used to make ["video postcards"](https://vimeo.com/showcase/3439157) and zines (printable versions: [nz](/new-zineland.pdf), [eu](/where-am-i.pdf), [china](<[china](/zine-dynasty.pdf)>)) of my travels.
+I used to make ["video postcards"](https://vimeo.com/showcase/3439157) and zines (printable versions: [nz](/new-zineland.pdf), [eu](/where-am-i.pdf), [china](<[china](/zine-dynasty.pdf)>)) of my travels. I still share some [photos](https://photos.natehn.com), every now and again.
 
 ## Notes
 

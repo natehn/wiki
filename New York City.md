@@ -3,16 +3,14 @@ title: New York City
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2021-12-14
+lastmod: 2022-06-26
 ---
 
-I lived in NYC from May 2018 to September 2021, and again in [[Ridgewood]] beginning January 2022. 
+It's where I live.
 
 *UNDER CONSTRUCTION*
 
 {{< figure src="/rooftop performance.jpg" caption="CAPTION." >}}
-
-{{< figure src="/the city.jpg" caption="CAPTION." >}}
 
 ### Recommendations for visitors
 
@@ -59,3 +57,25 @@ ridgewood
 
 Favorite arts orgs:
 - Performance Space New York
+
+{{< figure src="/the city.jpg" caption="CAPTION." >}}
+
+## Ridgewood
+
+The best neighborhood, but don't tell anyone.
+
+## Getting out of the city
+
+A few spots I recommend:
+
+#### The Adirondacks
+
+Where you can see the stars.
+
+I've gone up to the mountains a couple of times, staying in Minerva and Lake Placid. Minerva is really cute but a bit far from many of the trailheads. Lake Placid has easier access but is more urban. The High Peaks Wilderness is great, and I recommend climbing Mt Marcy. In the winter, you can cross-country ski and show-shoe, and walk out on Mirror Lake. The rest of the year, there's no shortage of lake activities to enjoy as well, such as swimming or kayaking.
+
+#### The Hudson Valley
+- DIA Beacon (I'm a sucker for Michael Heizer's stuff)
+- Bruised Apple Books has top-tier used book smells
+- hiking, then walking along the little main streets, getting ice cream etc.
+- Mt Beacon is overrated - do another hike instead, like Bull Hill or Bear Mountain

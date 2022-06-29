@@ -3,8 +3,11 @@ title: time
 rss_ignore: true
 type: "wiki"
 categories: "note"
-lastmod: 2022-05-25
+lastmod: 2022-06-26
 ---
+
+> What time is it on the clock of the world?
+> {{< rawhtml >}}<br>&nbsp;&ndash; {{< /rawhtml >}} *Grace Lee Boggs*
 
 ## Alt calendars
 

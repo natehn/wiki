@@ -10,11 +10,9 @@ lastmod: 2021-12-13
 
 {{< figure src="/humans.jpg" caption="Humans." >}}
 
-I love to travel. This page will have more on it at some point. Here are a few other related pages:
+Related pages:
 
-- [[north american travel log]]
-- [[eastern travel log]]
-- [[european travel log]]
+- [[travel log]]
 - [[digital nomad tips]]
 
 ### worst Airbnbs
